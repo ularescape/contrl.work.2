@@ -251,8 +251,11 @@ font-size: 58px;
 font-style: normal;
 font-weight: 700;
 line-height: 60px;
+margin-bottom: 61px;
 }
 .block_5_imges{
     display: flex;
     justify-content: space-between;
+    margin-left: 140px;
+    margin-bottom: 125px;
 }
