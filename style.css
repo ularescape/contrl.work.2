@@ -113,4 +113,7 @@ width: 363px;
 .product_right{  
     background: #F3F7F4;
     margin-left: 190px;
-    }
+}
+.product_right_mean{
+    padding: 80px;
+}    
