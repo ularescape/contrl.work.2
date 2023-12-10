@@ -278,7 +278,15 @@ font-family: Arial;
 font-size: 33px;
 font-style: normal;
 font-weight: 400;
-line-height: 36px; /* 109.091% */
-margin-bottom: 48px;
+line-height: 36px;
 width: 341px;
+margin: 51px 106px;
+
+}
+.end_txt{
+    padding: 159px 347px;
+}
+.btn_end{
+    /* margin:0px 139px; */
+    padding: 0 139px;
 }
