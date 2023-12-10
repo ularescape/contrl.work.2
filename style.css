@@ -259,3 +259,14 @@ margin-bottom: 61px;
     margin-left: 140px;
     margin-bottom: 125px;
 }
+.end_h2{
+    color: #283337;
+text-align: center;
+font-family: Times New Roman;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 100% */
+letter-spacing: 1px;
+width: 548px;
+}
