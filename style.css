@@ -269,4 +269,16 @@ font-weight: 700;
 line-height: 60px; /* 100% */
 letter-spacing: 1px;
 width: 548px;
+margin-bottom: 48px;
+}
+.end_p{
+    color: #283337;
+text-align: center;
+font-family: Arial;
+font-size: 33px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; /* 109.091% */
+margin-bottom: 48px;
+width: 341px;
 }
