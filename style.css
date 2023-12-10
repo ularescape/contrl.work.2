@@ -243,3 +243,16 @@ font-style: normal;
 font-weight: 700;
 line-height: 36px;
 }
+
+.block_5_h2{
+    color: #283337;
+text-align: center;
+font-size: 58px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px;
+}
+.block_5_imges{
+    display: flex;
+    justify-content: space-between;
+}
