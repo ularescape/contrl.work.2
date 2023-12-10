@@ -7,3 +7,12 @@
     max-width: 1138px;
     margin: 0 auto;
 }
+.head{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    margin-left: -25px;
+}
+.header_nav{
+    margin-left: 300px;
+}
