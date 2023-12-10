@@ -186,3 +186,13 @@ padding-bottom: 172px;
 .koin{
     padding: 150px 80px;
 }
+.koin_h2{
+    color: #283337;
+font-family: Times New Roman;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 100% */
+letter-spacing: 1px;
+width: 285px;
+}
