@@ -116,4 +116,14 @@ width: 363px;
 }
 .product_right_mean{
     padding: 80px;
-}    
+} 
+.product_h3{
+    color: #283337;
+    font-family: Arial;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33.882px;
+    width: 203px;
+    margin-bottom: 51px;
+}   
