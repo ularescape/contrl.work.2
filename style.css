@@ -69,3 +69,7 @@ margin-bottom: 26px;
 .block_1_right{
     margin: -100px 139px;
 }
+.block_1_imges{
+    display: flex;
+    padding: 265px 35px 143px;
+}
